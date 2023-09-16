@@ -1,0 +1,27 @@
+body{
+    background-color: gray;
+    align-items: center;
+  }
+
+#mainHeader{
+  text-align: center;
+  font-size: 30px;
+}
+div{
+  align-self: center;
+}
+h1{
+  text-align: center;
+  color: white;
+  text-transform: uppercase;
+}
+p{
+  text-align: center;
+  color:white;
+}
+#poster{
+  width: 50%;
+  margin-left: 25%;
+  margin-top: 100px;
+  border: 10px solid white;
+}
