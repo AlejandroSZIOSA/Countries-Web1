@@ -1,4 +1,4 @@
-/* Takes everything universal*/
+/* Takes everything universal - Box Model*/
 * {
   box-sizing:border-box;
 }
