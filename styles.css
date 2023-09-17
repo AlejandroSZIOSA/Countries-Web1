@@ -3,29 +3,23 @@ body{
     align-items: center;
   }
 
+/* Id selector */
 #mainHeaderArea{
   text-align: center;
   font-size: 30px;
-  color: azure;
 }
 
 table, th, td {
   border: 2px solid black;
 }
+
+th, td {
+  padding: 20px;
+  text-align: left;
+}
+
+/* Class selector */
 table.center {
   margin-left: auto;
   margin-right: auto;
 }
-
-/* table{
-  margin-left: 200px;
-} */
-
-/* table{
-  float:none;
-} */
-
-
-/* #tableArea {
-  align-content: flex-end;
-} */
