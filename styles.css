@@ -1,5 +1,9 @@
 /* Takes everything universal - Box Model*/
 * {
+  /* global */
+  /* default content-bock */
+  margin: 0;
+  padding: 0;
   box-sizing:border-box;
 }
 
