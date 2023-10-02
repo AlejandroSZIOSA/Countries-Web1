@@ -1,6 +1,6 @@
 /* Takes everything universal - Box Model*/
 * {
-  /* global used for all elements (child and parents)*/
+  /* global used for all elements (child, parents, siblings etc )*/
   /* default content-bock */
   margin: 0;
   padding: 0;
