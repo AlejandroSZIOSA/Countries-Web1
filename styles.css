@@ -1,12 +1,13 @@
 /* Takes everything universal - Box Model*/
 * {
-  /* global */
+  /* global used for all elements (child and parents)*/
   /* default content-bock */
   margin: 0;
   padding: 0;
   box-sizing:border-box;
 }
 
+/* contains all elements of a webpage */
 body {
   font-family: Arial, Helvetica, sans-serif;
 }
